@@ -1,3 +1,6 @@
+## 1.0.1
+  - Fixed minor documentation issues [#9](https://github.com/logstash-plugins/logstash-filter-http/pull/9)
+
 ## 1.0.0
   - Minor documentation fixes
 
