@@ -1,3 +1,6 @@
+## 1.0.2
+  - Fixed exception when using debug logging [#14](https://github.com/logstash-plugins/logstash-filter-http/pull/14)
+
 ## 1.0.1
   - Fixed minor documentation issues [#9](https://github.com/logstash-plugins/logstash-filter-http/pull/9)
 
